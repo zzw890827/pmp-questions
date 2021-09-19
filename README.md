@@ -325,3 +325,224 @@ The vendor ships the materials four working days before the start date of the ev
        PMBOK（6）P185-6.2.2.3，滚动式规划。题干中的关键字是：“未对某重要功能适当界定”。当功能界定不清晰时，应当想到项目的特点：渐进明细，而PMP中最好反应渐进明细的工具是滚动式规划，在项目实施的过程中逐步分解活动，选项C正确。未适当界定不代表范围基准需要更新更新，排除A。本题目和采购无关，题目中供应商为干扰词，排除B。从题目场景看，项目经理应该为乙方项目经理，并不参与供应商选择，排除D。
 
     </details>
+
+26. [单选] 某新聘项目经理接手了一个正在开展的项目。审查项目管理计划时，该项目经理意识到，质量管理计划偏离了已知的质量要求。项目经理首先应该做什么？A newly hired project manager took over an ongoing project. When reviewing the project management plan, the project manager realized that the quality management plan deviated from known quality requirements. What should the project manager do first?
+    - [ ] A：与项目相关方一起审查质量管理计划 Review the quality management plan together with project stakeholders
+    - [ ] B：准备并提交更新质量管理计划的变更请求 Prepare and submit a change request to update the quality management plan
+    - [ ] C：确保项目遵循当前的质量管理计划 Ensure that the project follows the current quality management plan
+    - [ ] D：将该项目制定为质量标准可发生变化的敏捷项目 Develop projects as agile projects with good quality criteria
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P306-8.3.3.4控制质量-变更请求。这道题目容易选A，但是要注意“审查项目管理计划时”，说明选项A的内容已经做了，那么接下来针对发现的问题进行纠正，所以选B。选项C，管理计划已经不可用。选项D，情景中没有提到质量标准灵活多变，所以采用敏捷的方式进行管理欠妥。
+
+    </details>
+
+27. [单选] 一所大学有一个项目，为新录取的学生实施新的在线申请系统，试验解决方案显示，大量申请捕捉到不完整和不准确的数据。项目团队、主题专家(SME)和关键相关方召开了一次研讨会，以调查这些错误的原因。若要专注于正确的领域进行变更，从而提高数据捕捉流程的质量，项目经理应该与团队一起使用下列哪一项技术？A university has a project to implement a new online application system for new students, and pilot solutions show that large numbers of applications capture incomplete and inaccurate data. The project team, subject matter experts (SME), and key stakeholders held a workshop to investigate the causes of these errors. To focus on making changes in the right areas to improve the quality of the data capture process, which of the following techniques should the project manager use with the team?
+    - [ ] A：因果图 Cause and effect diagrams
+    - [ ] B：亲和图 Affinity diagrams
+    - [ ] C：影响图 Influence diagrams
+    - [ ] D：鱼骨图 Fishbone diagrams
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P293，8.2.2.4数据表现-亲和图。亲和图可以对潜在缺陷成因进行分类，展示最应关注的领域。这道题目容易选A或者D，但是要注意“大量申请捕捉到不完整和不准确的数据”，首先需要对捕捉到的数据进行分类才能展开分析。选项C，影响图是不确定条件下决策制定的图形辅助工具。它将一个项目或项目中的一种情境表现为一系列实体、结果和影响，以及它们之间的关系和相互影响。
+
+    </details>
+
+28. [单选] 质量需求已被识别，项目正在测试和评估这些需求。项目经理现在需要将测试结果与质量需求进行对比，以帮助确保这些结果会被接受。 项目经理接下来该做什么？Quality requirements have been identified and the project is testing and evaluating these requirements. Project managers now need to compare test results with quality requirements to help ensure that these results are accepted. What should the project manager do next?
+    - [ ] A：风险审查 The risk review
+    - [ ] B：质量报告 The quality report
+    - [ ] C：数据分析报告 The data analysis report
+    - [ ] D：质量审查 The Quality review
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P298，8.3-控制质量。“将测试结果与质量需求进行对比”，属于控制质量活动。选项A，风险审查，属于风险管理工具。选项B是管理质量过程的的输出。选项C是数据分析后的输出。
+
+    </details>
+
+29. [单选] 在项目执行期间，监管合规团队公布了新的质量标准。更新质量管理计划时，项目经理应考虑什么？During the execution of the project, the regulatory compliance team published new quality criteria. What should the project manager consider when updating the quality management plan?
+    - [ ] A：经验教训登记册 The Lessons learned register
+    - [ ] B：成本效益分析 Cost-benefit analysis
+    - [ ] C：风险登记册 The risk register
+    - [ ] D：事业环境因素 Enterprise environmental factors
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P301，8.3.1.6-控制质量-事业环境因素。“新的质量标准”是对当前项目的制约，所以属于事业环境因素。选项A，经验教训登记册记录在项目实施期间识别的经验教训。选项B，成本效益分析是对财务投入和产出关系的分析。选项C，风险登记册记录已识别的风险。
+
+    </details>
+
+30. [单选] 在某项目中，需要为某连锁药店生产一系列健康补充品，客户向项目经理报告称某些产品未达到质量要求，他们似乎存在同样的缺陷。项目经理该做什么？In a project to produce a range of health supplements for a chain of pharmacies, the customer reported to the project manager that some products did not meet quality requirements and that they appeared to have the same defects. What should the project manager do?
+    - [ ] A：加强检查 Strengthen inspection
+    - [ ] B：进行根本原因分析 Execute root cause analysis
+    - [ ] C：审视各个过程 Review all processes
+    - [ ] D：增加统计抽样 Increase statistical sampling
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P294，8.2.2.5-审计。这道题目很容易选B。注意情景描述，“似乎存在同样的缺陷”，属于大面积出现的共性问题，此时要从流程上和标准上去分析导致质量问题发生的根源。如果针对的是孤立的个案，宜采用根本原因分析。选项AD是在解决当前后可能做出的调整，这些质量控制活动要更新到质量管理计划。
+
+    </details>
+
+31. [单选] 核对已完成的工程工作进行随机检查时，发现某些组件不符合标准。工程经理向项目经理保证，不符合标准组件的数量很少，不会影响整体项目质量。 项目经理应该做什么？During random checks of completed engineering work, some components were found to be non-conforming. The project manager assures the project manager that the number of non-conforming components is small and will not affect overall project quality. What should the project manager do?
+    - [ ] A：记录工程经理的评论，并继续推进项目以避免延期 Document the comments of the project manager and move the project forward to avoid delays
+    - [ ] B：坚持要求团队拆除已完成的工作并替换不符合标准的组件 Insist that the team dismantle the completed work and replace the non-conforming components
+    - [ ] C：使用统计抽样来验证组件的质量是否在可接受的水平内 Statistical sampling is used to verify that the quality of the component is within an acceptable level
+    - [ ] D：参考既定的质量保证政策和程序，以确定适当的措施 Refer to established quality assurance policies and procedures to determine appropriate actions
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P428，8.2-管理质量。随机检查发现的质量问题预示着可能属于大面积出现的共性问题，此时要实施管理质量活动，从流程上去预防质量问题的发生。选项A，问题需要解决，不能简单的记录了事。选项B，没有解决潜在的隐患。选项C，随机检查即是统计抽样，已经做过了。
+
+    </details>
+
+32. [单选] 项目经理正在管理一个虚拟团队，一名虚拟团队成员未能参加几次重要的项目会谈。项目经理应该做什么？The project manager is managing a virtual team, and a virtual team member fails to attend several important project meetings. What should the project manager do?
+    - [ ] A：直接与该团队成员交谈以澄清期望 Talk directly to the team to clarify expectations
+    - [ ] B：向该团队成员的职能经理提出该问题 Raise the issue with the team member's functional manager
+    - [ ] C：提醒该团队成员参加下一次团队会议 Remind the team member to attend the next team meeting
+    - [ ] D：请求发起人支持举行一次团队建设活动 Request the sponsor to support a team building event
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P345-9.5管理团队。管理团队是跟踪团队成员工作表现，提供反馈，解决问题并管理团队变更，以优化项目绩效的过程。遇到问题，首先要尝试去分析导致问题产生的原因，然后有针对性的加以解决。
+
+    </details>
+
+33. [单选] 项目团队已成功交付了项目，该成功一定程度上归功于有效的团队建设。下列哪一项对该有效的团队建设有最大贡献？The project team has successfully delivered the project, and this success is partly attributed to effective team building. Which of the following has the greatest contribution to effective team building?
+    - [ ] A：有效的组织过程 A valid group process
+    - [ ] B：灵活的变更控制程序 Flexible change control procedures
+    - [ ] C：有规律的团队会议 Regular team meetings
+    - [ ] D：挑战性的项目目标 Challenging project objectives
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P341，9.4.2.4人际关系与团队技能-团队建设。团队建设是通过举办各种活动，强化团队的社交关系，打造积极合作的工作环境。团队建设活动既可以是状态审查会上的五分钟议程，也可以是为改善人际关系而设计的、在非工作场所专门举办的专业提升活动。
+
+    </details>
+
+34. [单选] 一位项目团队成员决定优先处理职能性工作，而不是项目中被分配的任务，项目经理如何确保项目和所有任务保持正轨？How does the project manager ensure that the project and all tasks are on track when a project team member decides to prioritize functional work rather than tasks assigned in the project?
+    - [ ] A：与该团队成员讨论动机，以更好地了解其工作量 Discuss motivations with the team member to better understand their workload
+    - [ ] B：与该团队成员的职能经理会面，建议将项目任务纳入绩效考核 Have a meeting with the team member's functional manager and recommend that project tasks be included in the performance review
+    - [ ] C：为该团队成员提供薪酬激励，以完成所分配的项目工作 Provide compensation incentives to the team member to complete the assigned project work
+    - [ ] D：将该团队成员的不合格情况升级上报给其职能经理并请求其他资源 Escalate the team member's nonconformity to their functional manager and request additional resources
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P350-影响力。 题干关键词“优先处理职能性工作”。 矩阵环境中，团队成员实际由职能经理管理，职能经理具有评估绩效等对员工的企业实际权力。项目经理没有实际管理权力，在题目中当资源在项目和行政工作存在冲突并且优先处理行政工作时，需要与其职能经理（资源相关方）协商来解决该问题。选项B，因在矩阵企业，对资源滞后处理项目工作，应与资源上级即职能经理协商，以促进完成项目工作，选项中“将项目工作纳入绩效考核”是合适的方案。 选项A错误，这不是工作量的问题，而是工作优先级的问题； 选项C错误，认可和奖励应该在团队成员有优良表现时施行； 选项D错误，采取的措施极端且消极。
+
+    </details>
+
+35. [单选] 一位有影响力的职能领导从项目中开除了一位关键团队资源，这一行动将对关键路径上的活动造成负面影响。项目经理应该做什么？An influential functional leader removes a key team resource from the project, which will negatively impacts activities on the critical path. What should the project manager do?
+    - [ ] A：与该职能领导协商，并影响其转变决定 Consult with the functional leadership and influence their transition decisions
+    - [ ] B：让发起人与该职能领导讨论这名资源的重要性 Have the sponsor discuss the importance of this resource with the functional leader
+    - [ ] C：分析对项目管理计划的影响并提交变更请求 Analyze the impact on the project management plan and submit change requests
+    - [ ] D：遵循资源管理计划获取替代资源 Follow the resource management plan to obtain alternative resources
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P357-9.6.3.2变更请求。 题干关键词“造成负面影响”、“该怎么做”。 资源的变动对项目进度产生里负面影响，定位在9.6控制资源。这时应该考虑按整体变更控制流程提交变更请求，选C。 选项ABD都是在C之后可能采取的行动之一。
+
+    </details>
+
+36. [单选] 在某项目的监督阶段，项目经理发现了项目工作人员未使用经验教训更新项目文档。项目经理应如何应对这种情况？During the supervision phase of a project, the project manager discovered that the project staff was not using lessons learned to update the project documentation. How should the project manager respond to this situation?
+    - [ ] A：将经验教训连同简明的行动计划记入问题日志 Document the lessons learned along with a concise action plan in the issue log
+    - [ ] B：审查经验教训的记录过程，并将之告知项目团队 Review the documented process of learning and communicate it to the project team
+    - [ ] C：举行培训会议，为项目团队成员提供经验教训 Execute training meetings to provide lessons learned to project team members
+    - [ ] D：请求项目成员将所有经验教训发给项目经理 Ask project members to send all lessons learned to the project manager
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P342-9.4.2.6培训。 题干关键词“未使用经验教训更新项目文档”。 本题用排除法为宜。 选项A错误，问题日志中不会记载经验教训的具体内容； 选项B错误，经验教训的记录过程本身没有问题，简单告知团队不能彻底解决问题； 选项C正确，通过培训提高团队成员的能力； 选项D错误，收集经验教训不是靠项目经理一个人。
+
+    </details>
+
+37. [单选] 由于对项目方向的意见有冲突，一位团队成员辞职，项目经理应该做什么？What should the project manager do if a team member resigns due to conflicting opinions about the direction of the project?
+    - [ ] A：说服该资源留下来，因为他们对项目团队的成功非常宝贵 Convince the resource to stay, as they are invaluable to the success of the project team
+    - [ ] B：立即通知项目发起人，并招募替代人员，以尽可能减少项目偏移 Notify the project sponsor immediately and recruit replacement personnel to minimize project offshoring
+    - [ ] C：修改项目团队分配文件，并更新资源管理计划 Modify project team assignment documents and update resource management plan
+    - [ ] D：更新资源管理计划，并修改项目进度计划以反映资源短缺 Update the resource management plan and modify the project schedule to reflect resource shortages
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P358-资源管理计划。 本题用排除法为宜。 选项A错误，项目方向有意见的资源一般很难继续合作； 选项B错误，不是项目经理不能解决的问题，不需要上报发起人； 选项C正确； 选项D错误，修改项目进度计划需要走变更流程。
+
+    </details>
+
+38. [单选] 某大型项目的项目经理观察到，相关方的沟通方式将危及项目的成功。项目经理应该做什么来应对这种情况？The project manager for a large project observes that the way the stakeholder communicates would jeopardize the success of the project. What should the project manager do to deal with this situation?
+    - [ ] A：将该问题上报给发起人，以确保这种情况不会重复发生 Escalate the issue to the sponsor to ensure that it does not recur
+    - [ ] B：参照沟通管理计划，寻求让相关方了解相关情况方面的指导 Refer to the communications management plan and seek guidance for stakeholders to understand the relevant situation
+    - [ ] C：审查事业环境因素(EEFs)，以建立适当的沟通渠道 Review Enterprise Environmental Factors (EEFs) to establish appropriate communication channels
+    - [ ] D：直接与相关方讨论该问题，以纠正沟通问题 Discuss the issue directly with the stakeholder to correct the communication problem
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P388-10.3监督沟通。监督沟通是确保满足项目及其相关方的信息需求的过程。题目的关键场景：相关方的沟通方式会影响到项目的成功。问题更多的指向是相关方的问题，所以我们是从相关方的角度去讨论沟通方式相关的情况。因为问题的场景没有明确是相关方认为我们的制定的沟通管理计划出现了问题，所以最佳的方式是先跟相关方沟通了解他的沟通的需求，然后再对相关方的沟通方式做相应的引导。
+
+    </details>
+
+39. [单选] 在状态会议之后，项目经理发现存在未正确记录的问题。其原因是项目相关方和项目团队成员正在使用项目经理不知道的新聊天软件工具进行沟通。项目经理应该对使用这一新聊天软件工具做出什么回应？After the status meeting, the project manager found an issue that was not properly documented. That was because project stakeholders and project team members were communicating using new chat software tools that the project manager didn’t know about. How should the project manager respond to the use of this new chat software tool?
+    - [ ] A：向两组人员发送项目备忘录，指示他们不要使用新的聊天软件工具 Send project memos to two groups of people, instructing them not to use the new chat software tool
+    - [ ] B：要求项目团队成员发送使用新聊天软件工具交流的所有沟通记录 Require project team members to send all communication records using the new chat software tool
+    - [ ] C：要求项目团队成员审查使用新聊天软件工具进行的讨论，并每天更新问题日志 Require project team members to review discussions using the new chat software tool and update the issue log daily
+    - [ ] D：更新并分发有关使用这一新聊天软件工具的沟通管理计划 Update and distribute the communications management plan for using this new chat software tool
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P379，10.2-管理沟通。管理沟通是确保项目信息及时且恰当地收集、生成、发布、存储、检索、管理、监督和最终处置的过程。
+
+    </details>
+
+40. [单选] 一个项目相关方抱怨收到太多信息，另一个相关方却抱怨收到的信息太少，项目经理应该做什么？One project stakeholder complains about receiving too much information, while another complains about receiving too little information. What should the project manager do?
+    - [ ] A：标记报告的不同部分，并要求相关方仅关注属于他们的部分 Mark the different parts of the report and ask the stakeholders to focus only on the parts that belong to them
+    - [ ] B：制定一份执行、负责、咨询和知情（RACI）图，以确保满足相关方的沟通需求 Develop an Responsible, Accountable, Consulted and Informed (RACI) diagram to ensure that the communication requirements of stakeholders are met
+    - [ ] C：安排召开两个相关方之间的会议以达成妥协 Arrange a meeting between two stakeholders to reach a compromise
+    - [ ] D：进行沟通需求分析以制定一份整体沟通管理计划 Conduct communication requirements analysis to develop an overall communications management plan
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P388，10.3-监督沟通。对于沟通管理计划的更新，要根据相关方对信息获取的需求进行分析后决策，而不能仅仅根据相关方的“抱怨”冒然更新，所以选项A错误。选项B，RACI通常用于分配职责与角色。选项C，问题的焦点不是冲突，而是信息传递上存在缺陷。
+
+    </details>
+
+41. [单选] 项目经理开展的一个项目的相关方位于不同的国家/地区，各自讲着不同的当地语言，项目经理应该如何减少错误传达的发生？The stakeholders in a project carried out by the project manager are located in different countries/regions and each speak a different local language. How should the project manager reduce the occurrence of miscommunication?
+    - [ ] A：让相关方来到项目经理所在国家/地区 Bring the stakeholders to the project manager's country/region
+    - [ ] B：使用商定的共同语言 Use the agreed common language
+    - [ ] C：仅使用书面沟通形式 Use written communication only
+    - [ ] D：为相关方安排翻译人员 Arrange translators for the stakeholders
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P366，10.1-规划沟通管理。相关方分散于不同地区，且使用不同语言。在规划沟通管理时要针对这个痛点去解决，采用共同的语言是一种常用的解决办法。选项A，让所有的相关方聚集于同一地区不现实。选项CD，书面沟通和安排翻译人员也是建立在采用商定的共同语言基础上。
+
+    </details>
+
+42. [单选] 为了开展一个大型的复杂项目，成立了一家合资公司。在执行阶段，其中一个合资伙伴请求项目经理提供一个技术规范，而该规范可能会披露另一合资伙伴的知识产权。项目经理该做什么?A joint venture was founded to carry out a large and complex project. During the execution phase, one of the joint venture partners requests the project manager to provide a technical specification that may disclose the intellectual property rights of the other joint venture partner. What should the project manager do?
+    - [ ] A：提供所请求的信息，因为该活动明显与该项目相关 Provide the requested information because the activity is clearly relevant to the project
+    - [ ] B：询问该合资伙伴该信息的拥有者是谁，以使获准发布该信息 Ask the joint venture partner who owns the information to obtain permission to publish the information
+    - [ ] C：拒绝该合资伙伴的请求，因为它违反另一位伙伴的信息保护政策 Reject the joint venture partner's request because it violates the other partner's information protection policy
+    - [ ] D：就机密信息的发布，参阅沟通管理计划 For the release of confidential information, see the communications management plan
+
+    <details>
+       <summary>Answer</summary>
+
+       PMBOK（6）P379，10.2-管理沟通。管理沟通是确保项目信息及时且恰当地收集、生成、发布、存储、检索、管理、监督和最终处置的过程。本过程的主要作用是，促成项目团队与相关方之间的有效信息流动。如何进行信息的传递，要查阅沟通管理计划。选项AC，直接提供和直接拒绝都是错误的。选项B，能否如此执行，要看在沟通管理计划当中是否明确。
+
+    </details>
