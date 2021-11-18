@@ -65,3 +65,14 @@
       ![06a](img/06_a.png)
 
    </details>
+
+7. 一个敏捷团队在地理上被分隔在多个大洲，项目经理正在确定管理虚拟团队之间沟通的工具。把左边的适当工具拖到右边的每个项目任务上。
+
+   ![07q](img/07_q.png)
+
+   <details>
+      <summary>Answer</summary>
+
+      ![07a](img/07_a.png)
+
+   </details>
