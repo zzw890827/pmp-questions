@@ -184,12 +184,12 @@
 
     </details>
 
-14. 一个团队正在实施一个通信系统，客户说他们正在考虑关闭这个项目。项目经理安排了一次与客户的紧急会议，以了解项目处于风险中的原因。项目经理可以使用哪两种工具或技术来影响客户的决定，使项目继续进行？(选择两个。）
-    - [ ] A. 备选方案分析
-    - [ ] B. 成本效益分析
-    - [ ] C. 表决
-    - [ ] D. 专制决策
-    - [ ] E. 多标准决策
+14. 一个团队正在实施一个通信系统，客户说他们正在考虑关闭这个项目。项目经理安排了一次与客户的紧急会议，以了解项目处于风险中的原因。项目经理可以使用哪两种工具或技术来影响客户的决定，使项目继续进行？(选择两个。）A team is working on implementing a communications system when the client says that they are considering closing the project. The project manager schedules an urgent meeting with the client to understand why the project is at risk.Which two tools or techniques can the project manager use to influence the client's decision to keep the project active? (Choose two.)
+    - [ ] A. 备选方案分析 Alternatives analysis
+    - [ ] B. 成本效益分析 Cost-benefit analysis
+    - [ ] C. 表决 Voting
+    - [ ] D. 专制决策 Autocratic decision making
+    - [ ] E. 多标准决策 Multi-criteria decision making
   
     <details>
        <summary>Answer</summary>
@@ -209,5 +209,75 @@
        <summary>Answer</summary>
 
        答案BE。
+
+    </details>
+
+16. 项目经理观察到，两个团队成员在会议上公开争吵。为了推动他们的想法，每个团队成员都单独与发起人直接对话，并在没有通知项目经理或其他团队成员的情况下做出决定。项目经理应该采取哪两个行动？(选择两个。）
+    - [ ] A. 直接与他们的经理讨论这种行为，要求他们纠正这种行为。
+    - [ ] B. 与每个团队成员一起解决该行为问题。
+    - [ ] C. 要求团队成员自己解决这个问题。
+    - [ ] D. 与其他项目经理讨论这种情况并征求意见。
+    - [ ] E. 在下次会议上重申基本规则，确保所有团队成员都清楚这些规则。
+  
+    <details>
+       <summary>Answer</summary>
+
+       答案BE。
+
+    </details>
+
+17. 一个项目经理正在与主要的利益相关者、项目发起人和产品负责人开会，以确定下一个迭代后将要发布的功能。会议的目的是审查产品积压的优先级，考虑到在过去的迭代中，一些可交付的产品没有完成。在会议期间，应该首先考虑哪两个项目来审查和更新产品积压的优先级？(选择两个。）
+    - [ ] A. 重复使用另一个产品的组件
+    - [ ] B. 每个功能在积压中的时间长度
+    - [ ] C. 行业趋势和技术方法
+    - [ ] D. 复杂性和开发成本
+    - [ ] E. 延迟某些功能的成本与商业价值的对比
+  
+    <details>
+       <summary>Answer</summary>
+
+       答案DE。
+
+    </details>
+
+18. 一位项目经理被分配到一个正在开发的项目。当项目经理审查项目的进展时，他们发现有几个任务落后于计划。经过调查，项目经理发现有几个团队成员被拉去做其他任务，这影响了他们专注于项目经理的项目的能力。项目经理可以采取哪两个行动来使团队回到正轨？(选择两个。）
+    - [ ] A. 允许团队成员以他们自己的速度追赶。
+    - [ ] B. 与各职能部门的经理讨论项目延迟的风险和工作的优先次序。
+    - [ ] C. 建立每日停顿，审查项目进展，跟踪可交付成果的完成情况。
+    - [ ] D. 与团队合作，确定加速项目交付的方案。
+    - [ ] E. 立即提醒商业利益相关者注意进度延迟。
+  
+    <details>
+       <summary>Answer</summary>
+
+       答案BD。
+
+    </details>
+
+19. 一个大型的、多年的、工业项目的项目经理有一个项目，有来自不同地域的多样化的利益相关者。最近，该项目经理遇到了利益相关者参与方面的问题。项目经理应该使用哪两个工具来确定参与没有达到计划效果的根本原因？(请选择两个。）
+    - [ ] A. 开放空间会议
+    - [ ] B. 问题记录
+    - [ ] C. 石川图
+    - [ ] D. 五个为什么
+    - [ ] E. 沟通管理计划
+  
+    <details>
+       <summary>Answer</summary>
+
+       答案CD。
+
+    </details>
+
+20. 一位项目经理领导了一个刚刚完成的电子发票项目的实施。财务经理通知说，团队发现了三张有错误的发票。项目经理应该尽快更新哪两个文件？(选择两个。)
+    - [ ] A. 变更日志
+    - [ ] B. 利益相关者登记表
+    - [ ] C. 问题日志
+    - [ ] D. 风险登记册
+    - [ ] E. 积压登记簿
+  
+    <details>
+       <summary>Answer</summary>
+
+       答案CD。
 
     </details>

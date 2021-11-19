@@ -76,3 +76,36 @@
       ![07a](img/07_a.png)
 
    </details>
+
+8. 根据一个新的产品开发流程，市场部将开始把业务和用户需求直接加入到敏捷项目文件中。把左边的产品信息拖到右边的正确文件中。
+
+   ![08q](img/08_q.png)
+
+   <details>
+      <summary>Answer</summary>
+
+      ![08a](img/08_a.png)
+
+   </details>
+
+9. 团队在日常工作会议上报告了以下障碍。把左边的每个障碍拖到右边的项目经理需要采取的行动上。
+
+   ![09q](img/09_q.png)
+
+   <details>
+      <summary>Answer</summary>
+
+      ![09a](img/09_a.png)
+
+   </details>
+
+10. 将左边的沟通事件拖到右边的事件中讨论的主要议题。
+
+    ![10q](img/10_q.png)
+
+    <details>
+       <summary>Answer</summary>
+
+       ![10a](img/10_a.png)
+
+    </details>
