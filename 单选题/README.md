@@ -407,8 +407,8 @@
 32. 一家公司在预测性项目方面有很多经验。项目管理办公室（PMO）一直在尝试在项目管理框架内实施迭代工具，项目经理也被要求在他们目前的项目中使用这些工具。在成功实施迭代工具后，PMO要求项目经理确定这些工具给项目带来的好处。项目经理应该怎么做？
     - [ ] A. 确定项目期间要监测的数据以及预期的性能和目标。
     - [ ] B. 准备并提交一份状态报告给指导委员会，以更新性能监测。
-    - [ ] C. 与利益相关者进行审查，讨论该方法可能给项目带来的潜在好处。
-    - [ ] D. 更新沟通管理计划，考虑与项目利益相关者的绩效审查会议。
+    - [ ] C. 与相关方进行审查，讨论该方法可能给项目带来的潜在好处。
+    - [ ] D. 更新沟通管理计划，考虑与项目相关方的绩效审查会议。
 
     <details>
        <summary>Answer</summary>
@@ -549,7 +549,7 @@
 
     </details>
 
-43. 在一个产品的开发过程中，项目经理观察到项目利益相关者之间的冲突，导致了交付和产出批准的延迟。项目经理应该关注哪个方面？
+43. 在一个产品的开发过程中，项目经理观察到项目相关方之间的冲突，导致了交付和产出批准的延迟。项目经理应该关注哪个方面？
     - [ ] A. 重新审视利益相关者的参与计划，把重点放在被忽视的特定利益相关者上。
     - [ ] B. 重新审视项目管理计划，以确保交付物的按时完成。
     - [ ] C. 增加项目更新会议的频率，使利益相关者了解情况。
@@ -601,7 +601,7 @@
 
     </details>
 
-47. 在一个项目的规划阶段，项目经理意识到，标准的利益相关者参与方式是不够的。其中一位客户代表，不是关键的决策者，但却非常有主见。这个客户代表可能会因为他们在会议中被认为的权威水平而成为进展的障碍。项目经理应该如何处理这个问题？
+47. 在一个项目的规划阶段，项目经理意识到，标准的利益相关者参与方式是不够的。其中一位客户代表，虽然不是关键的决策者，但却非常有主见。这个客户代表可能会因为他们在会议中被认为的权威水平而成为进展的障碍。项目经理应该如何处理这个问题？
     - [ ] A. 要求只有关键决策人参加项目会议。
     - [ ] B. 更新项目计划，以迎合这个特定的利益相关者。
     - [ ] C. 更新风险登记册，以考虑可能的项目影响。
@@ -783,16 +783,16 @@
 
     </details>
 
-61. 一个组织正在向敏捷过渡，一个项目被选为试点。被指派的项目经理只有使用预测性方法的经验，但现在该项目经理被要求在敏捷教练的帮助下使用敏捷方法。在第五次冲刺的回顾会上，项目组抱怨说，组织中存在许多障碍，造成了项目的延误和返工。在这种情况下，项目经理应该怎么做？
-    - [ ] A. 在每日站会上进行根本原因分析。
-    - [ ] B. 创建一个专门的冲刺，与团队一起解决这些障碍。
-    - [ ] C. 在每日站会上讨论如何消除障碍。
-    - [ ] D. 促进合作，帮助团队消除障碍。
+61. 一个组织正在向敏捷过渡，一个项目被选为试点。被指派的项目经理只有使用预测性方法的经验，但现在该项目经理被要求在敏捷教练的帮助下使用敏捷方法。在第五次冲刺的回顾会上，项目组抱怨说，组织中存在许多障碍，造成了项目的延误和返工。在这种情况下，项目经理应该怎么做？An organization is transitioning to agile and a project has been chosen as a pilot. The assigned project manager only has experience using predictive approaches, but the project manager is now required to use agile approaches with the help of an agile coach. During the retrospective of the fifth sprint, the project team complains that many obstacles exist with the organization that are creating project delays and rework. What should the project manager do in this situation?
+    - [ ] A. 在每日站会上进行根本原因分析。Perform a root cause analysis during the standup meetings.
+    - [ ] B. 创建一个专门的冲刺，与团队一起解决这些障碍。Create a dedicated sprint to solve the obstacles with the team.
+    - [ ] C. 在每日站会上讨论如何消除障碍。Include impediment resolutions during daily standup meetings.
+    - [ ] D. 促进合作，帮助团队消除障碍。Promote collaboration to help remove the obstacles for the team.
 
     <details>
        <summary>Answer</summary>
 
-       答案A。
+       答案D。Question #2942
 
     </details>
 
@@ -1095,7 +1095,7 @@
 
     </details>
 
-85. 一个项目经理使用预测性方法已经超过10年了，现在要转到一个敏捷项目。团队成员以前没有一起工作过。经过两个冲刺阶段的工作，团队没有取得任何成果，完成工作的压力非常大。在这个阶段，项目经理应该使用什么样的领导风格？
+85. 一个项目经理使用预测性方法已经超过10年了，现在要转到一个敏捷项目，团队成员以前没有一起工作过。经过两个冲刺阶段的工作，团队没有取得任何成果，完成工作的压力非常大。在这个阶段，项目经理应该使用什么样的领导风格？
     - [ ] A. 一种被动的领导风格，允许团队自我组织，直到达到规范化阶段。
     - [ ] B. 一种指令性的风格，为团队做出决定，以达到早期的结果。
     - [ ] C. 使用多数人意见占上风的技术的民主风格。
@@ -1147,7 +1147,7 @@
 
     </details>
 
-89. 一个项目经理正在领导一个项目，有几个利益相关者在公司的其他职能领域。其中一个利益相关者刚刚被提升为另一个职能领域的领导，但仍然是这个项目的利益相关者。项目经理应该让项目团队更新什么，以确保与利益相关者的适当沟通？
+89. 一个项目经理正在领导一个项目，有几个相关方在公司的其他职能领域。其中一个相关方刚刚被提升为另一个职能领域的领导，但仍然是这个项目的相关方。项目经理应该让项目团队更新什么，以确保与相关方之间适当沟通？
     - [ ] A. 沟通管理计划
     - [ ] B. 利益相关者参与计划
     - [ ] C. 利益相关者登记册
@@ -1264,11 +1264,11 @@
 
     </details>
 
-98. 一个组织正在为其项目引入敏捷。在一次非正式的讨论中，项目经理了解到，目前在不同团队工作的团队成员正在讨论他们希望在同一个团队中一起工作。项目经理应该怎么做？
-    - [ ] A. 项目经理不应该让资源选择团队，因为项目经理是根据项目需要来分配资源的。
-    - [ ] B. 项目经理应该允许资源定期选择他们想在哪个团队工作。
-    - [ ] C. 项目经理不应该让资源选择他们想工作的团队，因为他们总是会选择自己喜欢的团队。
-    - [ ] D. 项目经理应该指出，团队成员已经通过劳动力优化被分配到一个团队。
+98. 一个组织正在为其项目引入敏捷。在一次非正式的讨论中，项目经理了解到，目前在不同团队工作的团队成员正在讨论他们希望在同一个团队中一起工作。项目经理应该怎么做？An organization is introducing agile to its projects. During an informal discussion, the project manager learned that team members who are currently working on different teams are discussing how they would like to be together on the same team. What should the project manager do?
+    - [ ] A. 项目经理不应该让资源选择团队，因为项目经理是根据项目需要来分配资源的。The project manager should not allow resources to choose teams because the project manager assigns the resources based upon project needs.
+    - [ ] B. 项目经理应该允许资源定期选择他们想在哪个团队工作。The project manager should allow the resources to periodically choose on which team they would like to work.
+    - [ ] C. 项目经理不应该让资源选择他们想工作的团队，因为他们总是会选择自己喜欢的团队。The project manager should not allow resources to choose on which team they would like to work because they will always choose their favorite team.
+    - [ ] D. 项目经理应该指出，团队成员已经通过劳动力优化被分配到一个团队。The project manager should indicate that the team members have already been assigned to a team through workforce optimization.
   
     <details>
        <summary>Answer</summary>
@@ -1280,7 +1280,7 @@
 99. 一位项目经理正在管理一个项目，该项目非常复杂，执行期很长。虽然该项目大部分是预测性的，但团队能够使用一个混合框架将设计和执行分解成更小的包。企业希望跟踪这个框架应用所带来的价值，但没有为这个框架定义一套可衡量的项目。项目经理应该先做什么？
     - [ ] A. 使用与上一个预测性项目相同的效益跟踪过程，并将其添加到每月的状态报告中。
     - [ ] B. 在工作分解结构（WBS）的基础上创建一个报告，并定期更新。
-    - [ ] C. 与利益相关者合作，确定哪些可测量的效益可以被跟踪，并指定一个负责任的人去监测和报告它们。
+    - [ ] C. 与相关方合作，确定哪些可测量的效益可以被跟踪，并指定一个负责人去监测和报告它们。
     - [ ] D. 研究哪些报告模板在这个框架中使用得最多，并将其纳入项目。
   
     <details>
@@ -1609,7 +1609,7 @@
      - [ ] A. 要求团队在当前的冲刺阶段包括合规性要求，并交付它。
      - [ ] B. 在相关方登记册中包括合规性领导，并等待下一次的状态会议。
      - [ ] C. 与法务部门成员合作，审查并确定需求交付的优先次序。
-     - [ ] D. 由于技术团队没有任何能力，将新的合规性要求加入到积压的工作中。
+     - [ ] D. 由于技术团队没有任何能力，将新的合规性要求加入到产品待办事项列表。
 
      <details>
        <summary>Answer</summary>
