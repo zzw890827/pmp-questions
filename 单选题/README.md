@@ -192,11 +192,11 @@
     <details>
        <summary>Answer</summary>
 
-       答案D。PMBOK 6，第83页。在确定基线之前，项目管理计划可以根据需要多次更新。这时不需要正式的程序。但是，一旦它被确定为基线，就只能通过执行综合变更控制过程来改变它。因此，只要有变更要求，就会产生变更请求并作出决定。这导致了一个项目管理计划，该计划通过控制和批准的更新逐步阐述，延伸到项目结束。
+       答案D。PMBOK 6，第83页。在确定基线之前，项目管理计划可以根据需要多次更新。这时不需要正式的程序。但是，一旦它被确定为基线，就只能通过执行综合变更控制过程来改变它。
 
     </details>
 
-16. 你正在开始一个新的项目，其工作人员是一个位于五个国家的虚拟团队。为了帮助避免你的团队成员和他们的职能经理之间在工作重点上的冲突，你要求项目发起人准备什么。
+16. 你正在开始一个新的项目，其工作人员是一个位于五个国家的虚拟团队。为了帮助避免你的团队成员和他们的职能经理之间在工作重点上的冲突，你要求项目发起人准备什么?
     - [ ] A. 给团队成员的备忘录，通知他们现在为你工作。
     - [ ] B. 项目章程
     - [ ] C. 给职能经理的备忘录，通知他们你有权指导他们的员工
@@ -222,7 +222,7 @@
 
     </details>
 
-18. 你在一个组织中管理一个项目，该组织的特点是有严格的规则和政策以及严格的监督控制。你的项目是由你的你的项目是由新加入公司的首席执行官发起的，目的是使该组织减少官僚主义，增加参与性。你正在制定你的项目管理计划。鉴于该组织目前的设置，在你准备计划时，你可以使用以下哪种组织过程资产？
+18. 你在一个组织中管理一个项目，该组织的特点是有严格的规则和政策以及严格的监督控制。你的项目是由新加入公司的首席执行官发起的，目的是使该组织减少官僚主义，增加参与性。你正在制定你的项目管理计划。鉴于该组织目前的设置，在你准备计划时，你可以使用以下哪种组织过程资产？
     - [ ] A. 准则和标准
     - [ ] B. 你所在行业的项目管理知识体系
     - [ ] C. 组织结构和文化
@@ -391,7 +391,7 @@
 
     </details>
 
-31. 在项目执行过程中，项目经理发现工作范围中缺少一个关键的交付物。经过调查，项目经理和团队发现缺失的交付物会影响关键路径。项目经理应该做什么来避免未来的延误？
+31. 在项目执行过程中，项目经理发现工作范围中缺少一个关键的交付物。经过调查，项目经理和团队发现缺失的交付物可能会影响关键路径。项目经理应该做什么来避免未来的延误？
     - [ ] A. 更新工作范围。
     - [ ] B. 审查风险管理计划。
     - [ ] C. 提交变更请求。
@@ -400,7 +400,7 @@
     <details>
        <summary>Answer</summary>
 
-       答案B。
+       答案B。发现一个风险，接下来进行分析，要进行哪些分析，本次项目执行是否需要裁剪定量分析？需要去管理计划查看下，本次项目执行过程中，需要对风险执行哪些分析，需要审查风险管理计划。
 
     </details>
 
@@ -497,11 +497,11 @@
 
     </details>
 
-39. 一个项目经理收到了来自项目组中一个业务分析员的语音邮件。业务分析员指出，一个关键相关方对他们在项目开始前没有被包括在内而感到不安。该相关方要求在需求追踪矩阵中增加一个内容。项目经理应该做什么来改善与关键相关方的关系？
-    - [ ] A. 发起一个项目变更请求，以便变更控制委员会（CCB）可以决定它是否在范围内。
-    - [ ] B. 更新相关方参与计划，以确保相关方被包括在项目相关方登记册中。
-    - [ ] C. 咨询项目范围文件，以确保增加的内容是在范围内。
-    - [ ] D. 与相关方开会，在回应相关方请求前征求更多信息。
+39. 一个项目经理收到了来自项目组中一个业务分析员的语音邮件。业务分析员指出，一个关键相关方对他们在项目开始前没有被包括在内而感到不安。该相关方要求在需求追踪矩阵中增加一个内容。项目经理应该做什么来改善与关键相关方的关系？A project manager receives a voicemail from a business analyst on the project team. The business analyst indicates that an internal stakeholder is upset that they were not included before the project began. The stakeholder is asking for an addition to the requirements traceability matrix. What should the project manager do to improve the stakeholder relationship?
+    - [ ] A. 发起一个项目变更请求，以便变更控制委员会（CCB）可以决定它是否在范围内。Initiate a project change request so the change control board (CCB) can decide if it is in scope.
+    - [ ] B. 更新相关方参与计划，以确保相关方被包括在项目相关方登记册中。Update the stakeholder engagement plan to ensure the stakeholder is included in the project stakeholder list.
+    - [ ] C. 咨询项目范围文件，以确保增加的内容是在范围内。Consult the project scope document to make sure the addition is in scope.
+    - [ ] D. 与相关方开会，在回应相关方请求前征求更多信息。Engage the stakeholder to solicit more information before responding to the request.
 
     <details>
        <summary>Answer</summary>
